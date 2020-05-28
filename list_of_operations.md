@@ -12,7 +12,7 @@ Assigning an event to a bin in a histogram or classifying it as a particular cla
 Sorting is a fundamental operation. For instance, we typically sort particles by $p_T$.
 
   * Differentiable Ranks and Sorting using Optimal Transport [https://arxiv.org/abs/1905.11885](https://arxiv.org/abs/1905.11885)
-  *  O(nlogn) time and O(n) space complexity [https://arxiv.org/abs/1905.11885](https://arxiv.org/abs/1905.11885)
+  *  O(nlogn) time and O(n) space complexity [https://arxiv.org/abs/2002.08871](https://arxiv.org/abs/2002.08871)
 
 
 * **Differentiable clustering (partitions)**
